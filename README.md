@@ -1,0 +1,1 @@
+# Time2Go---Metaverse-Project This case study is the Capstone Project using Metaverse in a travel application payment will be provided through Crypto-currencies. The application design will help customers to preview their desired locations with augmented reality and as a new means of using cryptocurrency exchange
